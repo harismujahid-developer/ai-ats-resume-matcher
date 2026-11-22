@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+sentence-transformers
+pypdf
+numpy
+pandas
+google-genai
+python-dotenv
+joblib
+fpdf2

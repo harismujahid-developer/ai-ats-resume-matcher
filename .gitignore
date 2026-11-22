@@ -1,0 +1,21 @@
+# Environment Variables & API Keys
+.env
+
+# Cached Model Artifacts
+ats_cache.joblib
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Editor & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
