@@ -86,7 +86,7 @@ Every uploaded PDF passes through four automated security checks before scoring 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/<harismujahid-developer/ai-ats-resume-matcher.git
    cd <your-repo-name>
    ```
 
